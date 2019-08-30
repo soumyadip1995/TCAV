@@ -9,8 +9,9 @@ Been Kim, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda V
 Testing with Concept Activation Vectors (TCAV) is a new interpretability method to understand what signals your neural networks models uses for prediction. 
 
 #### Read my Full Blog Post [here](https://soumyadip1995.blogspot.com/2019/06/tcavs-testing-with-concept-activation.html).
+#### See the Full Jupyter NoteBook [here](https://nbviewer.jupyter.org/github/soumyadip1995/TCAV/blob/master/TCAVs_Testing_with_Concept_Activation_Vectors%28_Google_I_0_2019%29.ipynb)
 
-##### Credit goes to this academic Team [here](https://github.com/wso2news/tcav) and If you wish to run this, clone this repo  
+#### Credit goes to this academic Team [here](https://github.com/wso2news/tcav) and If you wish to run this, clone this repo  
 
 ### What's special about TCAV compared to other methods?
 
